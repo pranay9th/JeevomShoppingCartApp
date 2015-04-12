@@ -232,7 +232,7 @@ namespace JeevomShoppingCart.ViewModels
 
             using (MailMessage message = new MailMessage())
             {
-                message.From = new MailAddress("pranaykumarcse@gmail.com");
+                message.From = new MailAddress("noreply@gmail.com");
                 message.To.Add(user.Email);
                 message.Subject = "Account Activation";
                 string body = "Hello " + user.Name.Trim() + ",";
@@ -244,7 +244,7 @@ namespace JeevomShoppingCart.ViewModels
                 SmtpClient smtpClient = new SmtpClient();
                 smtpClient.Host = "smtp.gmail.com";
                 smtpClient.EnableSsl = true;
-                NetworkCredential networkCredentials = new NetworkCredential("pranaykumarcse@gmail.com", "pranay9thjune");
+                NetworkCredential networkCredentials = new NetworkCredential("noreply@gmail.com", "accountpassword");
                 smtpClient.UseDefaultCredentials = false;
                 smtpClient.Credentials = networkCredentials;
                 smtpClient.Port = 587;
