@@ -1,0 +1,5 @@
+D:\Pranay\Assingment\JeevomShoppingCard\JeevomShoppingCart.Utils\obj\Debug\JeevomShoppingCart.Utils.csprojResolveAssemblyReference.cache
+E:\Projects\OfficeJeevom\JeevomShoppingCard\JeevomShoppingCart.Utils\bin\Debug\JeevomShoppingCart.Utils.dll
+E:\Projects\OfficeJeevom\JeevomShoppingCard\JeevomShoppingCart.Utils\bin\Debug\JeevomShoppingCart.Utils.pdb
+E:\Projects\OfficeJeevom\JeevomShoppingCard\JeevomShoppingCart.Utils\obj\Debug\JeevomShoppingCart.Utils.dll
+E:\Projects\OfficeJeevom\JeevomShoppingCard\JeevomShoppingCart.Utils\obj\Debug\JeevomShoppingCart.Utils.pdb

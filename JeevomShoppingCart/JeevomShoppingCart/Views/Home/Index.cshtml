@@ -1,0 +1,34 @@
+﻿@model JeevomShoppingCart.Models.LoginModel
+
+@{
+    ViewBag.Title = "Hello";
+}
+
+<hgroup class="title">
+    <h1>@ViewBag.Title @ViewBag.userName</h1>
+    
+</hgroup>
+<table data-bind="foreach: products">
+    <tr>
+        <td data-bind="text:name"></td>
+        <td data-bind="text: price"></td>
+        <td>
+            <button style="background-color:red" data-bind="click: $root.removeProduct,enable:unitCount()>0">---</button>
+        </td>
+        <td style="background-color:grey;width: 46px;text-align: center;">
+            <label data-bind="text: unitCount"></label>
+        </td>
+        <td>
+            <button style="background-color:green" data-bind="click: $root.addProduct">+++</button>
+        </td>
+        <td>
+            <Label>Total Price::</Label>
+            <span data-bind="text:totalPrice" style="width:10px"></span>
+        </td>
+        <td>
+            <button data-bind="click: $root.addToCart, enable: unitCount() > 0">Add To Cart</button>
+        </td>
+    </tr>
+   
+</table><br><br>
+@Html.ActionLink("Show Shopping Cart", "ShoppingCart", "ShoppingCart");

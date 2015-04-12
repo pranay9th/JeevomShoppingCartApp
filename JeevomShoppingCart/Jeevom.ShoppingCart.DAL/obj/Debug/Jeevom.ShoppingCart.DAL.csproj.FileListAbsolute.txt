@@ -1,0 +1,9 @@
+D:\Pranay\Assingment\JeevomShoppingCard\Jeevom.ShoppingCart.DAL\bin\Debug\Jeevom.ShoppingCart.DAL.dll
+D:\Pranay\Assingment\JeevomShoppingCard\Jeevom.ShoppingCart.DAL\bin\Debug\Jeevom.ShoppingCart.DAL.pdb
+D:\Pranay\Assingment\JeevomShoppingCard\Jeevom.ShoppingCart.DAL\obj\Debug\Jeevom.ShoppingCart.DAL.dll
+D:\Pranay\Assingment\JeevomShoppingCard\Jeevom.ShoppingCart.DAL\obj\Debug\Jeevom.ShoppingCart.DAL.pdb
+E:\Projects\OfficeJeevom\JeevomShoppingCard\Jeevom.ShoppingCart.DAL\bin\Debug\Jeevom.ShoppingCart.DAL.dll
+E:\Projects\OfficeJeevom\JeevomShoppingCard\Jeevom.ShoppingCart.DAL\bin\Debug\Jeevom.ShoppingCart.DAL.pdb
+E:\Projects\OfficeJeevom\JeevomShoppingCard\Jeevom.ShoppingCart.DAL\obj\Debug\Jeevom.ShoppingCart.DAL.dll
+E:\Projects\OfficeJeevom\JeevomShoppingCard\Jeevom.ShoppingCart.DAL\obj\Debug\Jeevom.ShoppingCart.DAL.pdb
+E:\Projects\OfficeJeevom\JeevomShoppingCard\Jeevom.ShoppingCart.DAL\obj\Debug\Jeevom.ShoppingCart.DAL.csprojResolveAssemblyReference.cache
